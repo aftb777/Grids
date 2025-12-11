@@ -8,10 +8,8 @@ A powerful and flexible Swift-based library for creating and managing grid-based
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Reference](#api-reference)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 - [Support](#support)
 
 ## Project Overview
@@ -181,11 +179,6 @@ let encoder = JSONEncoder()
 let data = try encoder.encode(grid)
 ```
 
-## API Reference
-
-### Grid<T>
-
-Main grid class for managing cell data.
 
 #### Initializers
 
@@ -369,10 +362,6 @@ All pull requests will be reviewed for:
 - Documentation completeness
 - Performance impact
 - Backwards compatibility
-
-## License
-
-Grids is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
 
